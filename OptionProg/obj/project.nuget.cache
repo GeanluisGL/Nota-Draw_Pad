@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "IiubpY+dMa+EBBthjTpxlAg+xia9NuSn68v8G+VnKn6dO4HBLU5gJ1Fsn0BMj75cvU/Ghob+pMTpUp/RYtY1jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geanl\\Documents\\Yan\\Codes\\999_Class\\C5\\Programacion 2\\T5\\Practica Presentación\\OptionProg\\OptionProg\\Principal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geanl\\.nuget\\packages\\guna.charts.winforms\\1.0.4\\guna.charts.winforms.1.0.4.nupkg.sha512",
+    "C:\\Users\\geanl\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.2\\guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Guna.Charts.WinForms 1.0.4\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Guna.Charts.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Guna.UI2.WinForms 2.0.3.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

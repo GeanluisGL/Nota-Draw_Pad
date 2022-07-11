@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Principal/1.0.0": {
+        "dependencies": {
+          "Guna.Charts.WinForms": "1.0.4",
+          "Guna.UI2.WinForms": "2.0.3.2"
+        },
+        "runtime": {
+          "Principal.dll": {}
+        }
+      },
+      "Guna.Charts.WinForms/1.0.4": {
+        "runtime": {
+          "lib/net40/Guna.Charts.WinForms.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "Guna.UI2.WinForms/2.0.3.2": {
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {
+            "assemblyVersion": "2.0.3.2",
+            "fileVersion": "2.0.3.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Principal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guna.Charts.WinForms/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-78Lny2uFqhMROmRJ+4N53f3662ydRRVlRrED0EpucbQROEGMzNJkC34WWXcJPm8dz6+zONr4NkUUPJWO58o04A==",
+      "path": "guna.charts.winforms/1.0.4",
+      "hashPath": "guna.charts.winforms.1.0.4.nupkg.sha512"
+    },
+    "Guna.UI2.WinForms/2.0.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eemzZE4IrzNrC1Ln6KYVH0r8S8bYWUW0tu7VNXzR6d/WMu0sgTZmrp86r/vIuL1aoPESLMQnycpNbtPv2cjeQA==",
+      "path": "guna.ui2.winforms/2.0.3.2",
+      "hashPath": "guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+    }
+  }
+}
