@@ -1,7 +1,0 @@
-C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T5\Practica Presentación\OptionProg\Seletion Exercise\obj\Debug\net6.0-windows\Seletion Exercise.csproj.AssemblyReference.cache
-C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T5\Practica Presentación\OptionProg\Seletion Exercise\obj\Debug\net6.0-windows\Seletion_Exercise.SettingScreen.resources
-C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T5\Practica Presentación\OptionProg\Seletion Exercise\obj\Debug\net6.0-windows\Seletion Exercise.csproj.GenerateResource.cache
-C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T5\Practica Presentación\OptionProg\Seletion Exercise\obj\Debug\net6.0-windows\Seletion Exercise.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T5\Practica Presentación\OptionProg\Seletion Exercise\obj\Debug\net6.0-windows\Seletion Exercise.AssemblyInfoInputs.cache
-C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T5\Practica Presentación\OptionProg\Seletion Exercise\obj\Debug\net6.0-windows\Seletion Exercise.AssemblyInfo.cs
-C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T5\Practica Presentación\OptionProg\Seletion Exercise\obj\Debug\net6.0-windows\Seletion Exercise.csproj.CoreCompileInputs.cache
